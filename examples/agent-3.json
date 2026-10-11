@@ -1,0 +1,41 @@
+{
+  "presentationId": "studio-demo",
+  "baseRevision": 3,
+  "agent": "agent-3",
+  "designs": [
+    {
+      "slideId": "slide-01",
+      "design": {
+        "layout": "hero",
+        "effect": {
+          "id": "threeui.constellation",
+          "enabled": true,
+          "pptxFallback": "static-image"
+        }
+      }
+    },
+    {
+      "slideId": "slide-02",
+      "design": {
+        "layout": "content",
+        "effect": {
+          "id": "none",
+          "enabled": false,
+          "pptxFallback": "static-image"
+        }
+      }
+    },
+    {
+      "slideId": "slide-03",
+      "design": {
+        "layout": "closing",
+        "effect": {
+          "id": "none",
+          "enabled": false,
+          "pptxFallback": "static-image"
+        }
+      }
+    }
+  ],
+  "assets": []
+}

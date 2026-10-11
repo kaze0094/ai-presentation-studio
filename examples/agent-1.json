@@ -1,0 +1,28 @@
+{
+  "presentationId": "studio-demo",
+  "baseRevision": 1,
+  "agent": "agent-1",
+  "outline": [
+    {
+      "id": "slide-01",
+      "story": {
+        "purpose": "Mở đầu",
+        "keyMessage": "Từ ý tưởng đến câu chuyện."
+      }
+    },
+    {
+      "id": "slide-02",
+      "story": {
+        "purpose": "Nội dung",
+        "keyMessage": "Một quy trình. Ba bước."
+      }
+    },
+    {
+      "id": "slide-03",
+      "story": {
+        "purpose": "Kết luận",
+        "keyMessage": "Sẵn sàng cho câu chuyện tiếp theo."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "ai-presentation-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/build.mjs",
+    "preview": "vite preview",
+    "test": "tsx --test tests/*.test.ts",
+    "sample:pptx": "tsx scripts/sample.ts",
+    "test:browser": "node tests/browser.cjs",
+    "audit:source": "node scripts/audit-source.mjs"
+  },
+  "dependencies": {
+    "@designcodeio/threeui": "file:vendor/designcodeio-threeui-1.2.0.tgz",
+    "ajv": "^8.20.0",
+    "pptxgenjs": "^4.0.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "three": "0.149.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.4",
+    "@vitejs/plugin-react": "5.2.0",
+    "jszip": "^3.10.1",
+    "playwright": "^1.64.0",
+    "tsx": "^4.23.15",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vite-plugin-singlefile": "^2.3.3"
+  },
+  "engines": {
+    "node": ">=24 <25"
+  }
+}

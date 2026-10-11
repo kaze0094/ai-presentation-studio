@@ -1,0 +1,10 @@
+{
+  "targets": 2,
+  "desktop": true,
+  "mobile": true,
+  "offlineWeb": true,
+  "fileProtocolTested": false,
+  "sampleSnapshotMatch": true,
+  "tamperBlock": true,
+  "uncaughtErrors": []
+}

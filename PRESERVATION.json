@@ -1,0 +1,13 @@
+{
+  "vendorSha256": "93e21ffbcb4a2fef67574d3bb817d46a8d4c50c23575c2717259c5db1a02acdd",
+  "lockfileSha256": "43eee9bee63a9cf6b5a83482b2005a350ef48a7a93926238245a72df91b6a0ea",
+  "beforeUpgradeArchive": "/workspace/backups/ai-presentation-studio-before-json-20261011.tgz",
+  "upgradedSourceArchive": "/workspace/backups/ai-presentation-studio-json-web-pptx-20261011.tgz",
+  "excluded": [
+    "node_modules",
+    "dist",
+    "public/export-template.html"
+  ],
+  "published": false,
+  "githubPushed": false
+}

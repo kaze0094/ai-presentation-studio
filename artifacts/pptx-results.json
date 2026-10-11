@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "file": "ai-presentation-studio.sample.pptx",
+      "slides": 3,
+      "editableText": true,
+      "notes": true
+    },
+    {
+      "file": "chart-editable.test.pptx",
+      "slides": 3,
+      "editableText": true,
+      "notes": true
+    },
+    {
+      "file": "browser-5175.pptx",
+      "slides": 3,
+      "editableText": true,
+      "notes": true
+    },
+    {
+      "file": "browser-4175.pptx",
+      "slides": 3,
+      "editableText": true,
+      "notes": true
+    }
+  ],
+  "textEditSaveReopen": true,
+  "microsoftPowerPointVisualTest": false
+}

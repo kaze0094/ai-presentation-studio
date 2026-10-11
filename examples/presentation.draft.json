@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0",
+  "id": "studio-demo",
+  "revision": 1,
+  "metadata": {
+    "title": "Từ ý tưởng đến câu chuyện",
+    "language": "vi",
+    "audience": "Người tạo bài thuyết trình",
+    "objective": "Giới thiệu quy trình tạo bài thuyết trình chuyên nghiệp"
+  },
+  "theme": {
+    "id": "studio-dark",
+    "aspectRatio": "16:9"
+  },
+  "assets": [],
+  "slides": [
+    {
+      "id": "slide-01",
+      "story": {
+        "purpose": "Mở đầu",
+        "keyMessage": "Từ ý tưởng đến câu chuyện."
+      },
+      "content": {
+        "title": "Từ ý tưởng đến câu chuyện.",
+        "subtitle": "Biến những điều bạn muốn nói thành một bài thuyết trình đáng nhớ.",
+        "eyebrow": "Ý TƯỞNG CỦA BẠN. SÂN KHẤU CỦA BẠN.",
+        "blocks": [],
+        "speakerNotes": "Chào người nghe và giới thiệu mục tiêu: chuyển ý tưởng thành câu chuyện rõ ràng.",
+        "sources": []
+      },
+      "design": {
+        "layout": "hero",
+        "effect": {
+          "id": "threeui.constellation",
+          "enabled": true,
+          "pptxFallback": "static-image"
+        }
+      }
+    },
+    {
+      "id": "slide-02",
+      "story": {
+        "purpose": "Nội dung",
+        "keyMessage": "Một quy trình. Ba bước."
+      },
+      "content": {
+        "title": "Một quy trình. Ba bước.",
+        "subtitle": "Từ nội dung đến trải nghiệm.",
+        "eyebrow": "TỪ NỘI DUNG ĐẾN TRẢI NGHIỆM",
+        "blocks": [
+          {
+            "id": "process",
+            "type": "cards",
+            "cards": [
+              {
+                "title": "Định hình",
+                "body": "Xác định thông điệp chính, người nghe và mục tiêu của bài trình bày."
+              },
+              {
+                "title": "Kể chuyện",
+                "body": "Sắp xếp ý tưởng thành một mạch nội dung rõ ràng, có điểm nhấn."
+              },
+              {
+                "title": "Trình bày",
+                "body": "Kết hợp bố cục, chuyển động và nhịp điệu để truyền tải thông điệp."
+              }
+            ]
+          }
+        ],
+        "speakerNotes": "Giải thích ba bước: định hình thông điệp, kể chuyện và trình bày. Nhấn mạnh vai trò của người nghe.",
+        "sources": []
+      },
+      "design": {
+        "layout": "content",
+        "effect": {
+          "id": "none",
+          "enabled": false,
+          "pptxFallback": "static-image"
+        }
+      }
+    },
+    {
+      "id": "slide-03",
+      "story": {
+        "purpose": "Kết luận",
+        "keyMessage": "Sẵn sàng cho câu chuyện tiếp theo."
+      },
+      "content": {
+        "title": "Sẵn sàng cho câu chuyện tiếp theo.",
+        "subtitle": "Bắt đầu bằng một thông điệp. Kết thúc bằng một dấu ấn.",
+        "eyebrow": "MỖI Ý TƯỞNG ĐỀU XỨNG ĐÁNG ĐƯỢC LẮNG NGHE",
+        "blocks": [],
+        "speakerNotes": "Tóm tắt thông điệp, cảm ơn và mời người nghe đặt câu hỏi.",
+        "sources": []
+      },
+      "design": {
+        "layout": "closing",
+        "effect": {
+          "id": "none",
+          "enabled": false,
+          "pptxFallback": "static-image"
+        }
+      }
+    }
+  ],
+  "review": {
+    "status": "pending",
+    "findings": []
+  },
+  "approval": {
+    "status": "draft",
+    "approvedRevision": null,
+    "contentHash": null,
+    "approvedAt": null
+  },
+  "history": []
+}

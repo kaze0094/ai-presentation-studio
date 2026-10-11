@@ -1,0 +1,59 @@
+{
+  "presentationId": "studio-demo",
+  "baseRevision": 2,
+  "agent": "agent-2",
+  "contents": [
+    {
+      "slideId": "slide-01",
+      "content": {
+        "title": "Từ ý tưởng đến câu chuyện.",
+        "subtitle": "Biến những điều bạn muốn nói thành một bài thuyết trình đáng nhớ.",
+        "eyebrow": "Ý TƯỞNG CỦA BẠN. SÂN KHẤU CỦA BẠN.",
+        "blocks": [],
+        "speakerNotes": "Chào người nghe và giới thiệu mục tiêu: chuyển ý tưởng thành câu chuyện rõ ràng.",
+        "sources": []
+      }
+    },
+    {
+      "slideId": "slide-02",
+      "content": {
+        "title": "Một quy trình. Ba bước.",
+        "subtitle": "Từ nội dung đến trải nghiệm.",
+        "eyebrow": "TỪ NỘI DUNG ĐẾN TRẢI NGHIỆM",
+        "blocks": [
+          {
+            "id": "process",
+            "type": "cards",
+            "cards": [
+              {
+                "title": "Định hình",
+                "body": "Xác định thông điệp chính, người nghe và mục tiêu của bài trình bày."
+              },
+              {
+                "title": "Kể chuyện",
+                "body": "Sắp xếp ý tưởng thành một mạch nội dung rõ ràng, có điểm nhấn."
+              },
+              {
+                "title": "Trình bày",
+                "body": "Kết hợp bố cục, chuyển động và nhịp điệu để truyền tải thông điệp."
+              }
+            ]
+          }
+        ],
+        "speakerNotes": "Giải thích ba bước: định hình thông điệp, kể chuyện và trình bày. Nhấn mạnh vai trò của người nghe.",
+        "sources": []
+      }
+    },
+    {
+      "slideId": "slide-03",
+      "content": {
+        "title": "Sẵn sàng cho câu chuyện tiếp theo.",
+        "subtitle": "Bắt đầu bằng một thông điệp. Kết thúc bằng một dấu ấn.",
+        "eyebrow": "MỖI Ý TƯỞNG ĐỀU XỨNG ĐÁNG ĐƯỢC LẮNG NGHE",
+        "blocks": [],
+        "speakerNotes": "Tóm tắt thông điệp, cảm ơn và mời người nghe đặt câu hỏi.",
+        "sources": []
+      }
+    }
+  ]
+}
